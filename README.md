@@ -66,7 +66,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/AdrianGH03/CEN-4010-Group-3-Library-API" target="_blank">
-        <img src="https://github.com/user-attachments/assets/95b8e2e2-9e59-4103-a140-66e7f236fc18" width="250px"/>
+        <img src="https://github.com/user-attachments/assets/83e1d254-ad75-4fd2-b23c-97ca053271b9" width="250px"/>
       </a><br/>
       <b>Geek Text</b><br/>
       Bookstore backend API
@@ -80,7 +80,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/AdrianGH03/Sp-Clone" target="_blank">
-        <img src="https://github.com/user-attachments/assets/74856676-baca-474e-864d-f7b2f6b90955" width="250px"/>
+        <img src="https://github.com/user-attachments/assets/4e032b4c-815c-4f90-8ba1-462f6d1fb85f" width="250px"/>
       </a><br/>
       <b>SP Clone</b><br/>
       A Spotify Clone
