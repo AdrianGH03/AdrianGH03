@@ -4,7 +4,7 @@
  
 <a href="https://github.com/AdrianGH03"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 Computer Science undergrad at Florida International University (Class of 2025) and based in Palm Beach County, Florida.
+- 🎓 Computer Science Graduate from Florida International University (Class of 2025) and based in Palm Beach County, Florida.
 - 💻 Full-stack developer with the skillset to build scalable, real-world web applications.
 - 🌐 Strong foundation in RESTful API design, component-based frontend development, and secure backend architecture.
 - 🧠 Currently focused on deepening my skills in advanced React patterns, front-end and back-end optimization, and secure coding practices.
