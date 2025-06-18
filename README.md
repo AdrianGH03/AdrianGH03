@@ -86,6 +86,15 @@
       A Spotify Clone
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://flourishing-sorbet-29baac.netlify.app" target="_blank">
+         <img src="https://github.com/user-attachments/assets/58e9d0c0-9de8-4fbd-a1be-69ae8facfe6c" width="250px"/>
+      </a><br/>
+      <b>Barber Shop</b><br/>
+      Mock Barber Shop Page
+    </td>
+  </tr>
 </table>
 
 #### Find me on  
