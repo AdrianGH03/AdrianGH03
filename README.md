@@ -43,21 +43,21 @@
   <tr>
     <td align="center">
       <a href="https://blitzdraftlol.com" target="_blank">
-         <img src="![image](https://github.com/user-attachments/assets/c98e2fe9-4c61-4e93-8ed0-c3888f8d2af2)" width="250px"/>
+         <img src="https://github.com/user-attachments/assets/c98e2fe9-4c61-4e93-8ed0-c3888f8d2af2" width="250px"/>
       </a><br/>
       <b>BlitzDraft</b><br/>
       League of Legends drafting tool
     </td>
     <td align="center">
       <a href="https://fandom-fits.vercel.app" target="_blank">
-        <img src="![image](https://github.com/user-attachments/assets/2ffadea3-1883-453d-856a-3238aafc99d8)" width="250px"/>
+        <img src="https://github.com/user-attachments/assets/2ffadea3-1883-453d-856a-3238aafc99d8" width="250px"/>
       </a><br/>
       <b>FandomFits</b><br/>
       E-commerce storefront
     </td>
     <td align="center">
       <a href="https://inm-25.vercel.app" target="_blank">
-        <img src="![image](https://github.com/user-attachments/assets/ca28b157-5e70-4928-90aa-a91801fd2cb2)" width="250px"/>
+        <img src="https://github.com/user-attachments/assets/ca28b157-5e70-4928-90aa-a91801fd2cb2" width="250px"/>
       </a><br/>
       <b>INM</b><br/>
       Music recommendation app
@@ -66,21 +66,21 @@
   <tr>
     <td align="center">
       <a href="https://github.com/AdrianGH03/CEN-4010-Group-3-Library-API" target="_blank">
-        <img src="![image](https://github.com/user-attachments/assets/95b8e2e2-9e59-4103-a140-66e7f236fc18)" width="250px"/>
+        <img src="https://github.com/user-attachments/assets/95b8e2e2-9e59-4103-a140-66e7f236fc18" width="250px"/>
       </a><br/>
       <b>Geek Text</b><br/>
       Bookstore backend API
     </td>
     <td align="center">
       <a href="https://d2bo-login.netlify.app" target="_blank">
-        <img src="![Screenshot 2025-06-13 164642](https://github.com/user-attachments/assets/8f7f679d-81be-4dec-bd8d-e5e9b2642533)" width="250px"/>
+        <img src="https://github.com/user-attachments/assets/8f7f679d-81be-4dec-bd8d-e5e9b2642533" width="250px"/>
       </a><br/>
       <b>D2BO</b><br/>
       Destiny 2 Bounty Organizer
     </td>
     <td align="center">
       <a href="https://github.com/AdrianGH03/Sp-Clone" target="_blank">
-        <img src="![image](https://github.com/user-attachments/assets/74856676-baca-474e-864d-f7b2f6b90955)" width="250px"/>
+        <img src="https://github.com/user-attachments/assets/74856676-baca-474e-864d-f7b2f6b90955" width="250px"/>
       </a><br/>
       <b>SP Clone</b><br/>
       A Spotify Clone
