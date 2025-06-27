@@ -7,8 +7,8 @@
 - 🎓 Computer Science Graduate from Florida International University (Class of 2025) and based in Palm Beach County, Florida.
 - 💻 Full-stack developer with the skillset to build scalable, real-world web applications.
 - 🌐 Strong foundation in RESTful API design, component-based frontend development, and secure backend architecture.
-- 🧠 Currently focused on deepening my skills in advanced React patterns, front-end and back-end optimization, and secure coding practices.
-- 🤝 Currently working on my... INM (I Need Music) project.
+- 🧠 Currently focused on deepening my skills in advanced React patterns, front-end and back-end optimization, Docker, AWS, CI/CD, PostgreSQL, and GitHub Actions.
+- 🤝 Currently working on my... AI-Notes Summarizer project.
 
 #### Languages and Tools
 <p>
