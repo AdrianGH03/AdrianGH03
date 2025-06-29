@@ -1,5 +1,3 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/miguelgomez400" target="_blank" rel="noopener noreferrer">Miguel Gomez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <a href="https://github.com/AdrianGH03"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
@@ -93,6 +91,13 @@
       </a><br/>
       <b>Barber Shop</b><br/>
       Mock Barber Shop Page
+    </td>
+    <td align="center">
+      <a href="https://github.com/AdrianGH03/AI_Notes_Summarizer" target="_blank">
+         <img src="https://github.com/user-attachments/assets/9b961734-1c9e-40ef-8165-6343afb50ea4" width="250px"/>
+      </a><br/>
+      <b>AI-Notes Summarizer</b><br/>
+       Resume tailoring tool
     </td>
   </tr>
 </table>
