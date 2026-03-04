@@ -6,7 +6,7 @@
 - 💻 Full-stack developer with the skillset to build scalable, real-world web applications.
 - 🌐 Strong foundation in RESTful API design, component-based frontend development, and secure backend architecture.
 - 🧠 Currently focused on deepening my skills in advanced React patterns, front-end and back-end optimization, Docker, AWS, CI/CD, PostgreSQL, and GitHub Actions.
-- 🤝 Currently working on my... AI-Notes Summarizer project.
+- 🤝 Currently working on my https://roadmap.sh/computer-science to increase my knowledge!
 
 #### Languages and Tools
 <p>
