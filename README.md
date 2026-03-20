@@ -6,7 +6,7 @@
 - 💻 Full-stack developer with the skillset to build scalable, real-world web applications.
 - 🌐 Strong foundation in RESTful API design, component-based frontend development, and secure backend architecture.
 - 🧠 Currently focused on deepening my skills in advanced React patterns, front-end and back-end optimization, Docker, AWS, CI/CD, PostgreSQL, and GitHub Actions.
-- 🤝 Currently working on https://www.youtube.com/watch?v=lvO88XxNAzs&list=LL&index=1&t=978s to increase my knowledge! And my AI Interview Project in Python! :)
+- 🤝 Currently learning Angular, TypeScript, and more Python to strengthen my skills and learning, applying them to projects wherever I can.
 
 #### Languages and Tools
 <p>
@@ -36,7 +36,6 @@
 #### Featured Projects
 
 <h3 align="left">📸 Project Gallery</h3>
-<img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/9ff72ad1-76a7-417c-b160-610cee4f8009" />
 
 <table>
   <tr>
@@ -117,4 +116,4 @@
   <a href="https://github.com/AdrianGH03" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
 </p>
 
-_Last Edited on: 3/9/2026_
+_Last Edited on: 3/20/2026_
