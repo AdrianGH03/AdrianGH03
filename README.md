@@ -49,7 +49,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/AdrianGH03/AIInterviewProject" target="_blank">
-         <img src="https://github.com/user-attachments/assets/9ff72ad1-76a7-417c-b160-610cee4f8009" width="250px"/>
+         <img src="https://github.com/user-attachments/assets/d08cc3f3-21d6-44a4-bad8-84824ab7e5b8" width="250px"/>
       </a><br/>
       <b>PrepPilot</b><br/>
       AI Interview Practice
