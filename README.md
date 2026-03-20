@@ -60,13 +60,6 @@
       <b>FandomFits</b><br/>
       E-commerce storefront
     </td>
-    <td align="center">
-      <a href="https://inm-25.vercel.app" target="_blank">
-        <img src="https://github.com/user-attachments/assets/ca28b157-5e70-4928-90aa-a91801fd2cb2" width="250px"/>
-      </a><br/>
-      <b>INM</b><br/>
-      Music recommendation app
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -77,21 +70,28 @@
       Bookstore backend API
     </td>
     <td align="center">
+      <a href="https://github.com/AdrianGH03/AI_Notes_Summarizer" target="_blank">
+         <img src="https://github.com/user-attachments/assets/9b961734-1c9e-40ef-8165-6343afb50ea4" width="250px"/>
+      </a><br/>
+      <b>AI-Notes Summarizer</b><br/>
+       Resume tailoring tool
+    </td>
+    <td align="center">
       <a href="https://d2bo-login.netlify.app" target="_blank">
         <img src="https://github.com/user-attachments/assets/8f7f679d-81be-4dec-bd8d-e5e9b2642533" width="250px"/>
       </a><br/>
       <b>D2BO</b><br/>
       Destiny 2 Bounty Organizer
     </td>
-    <td align="center">
-      <a href="https://github.com/AdrianGH03/Sp-Clone" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4e032b4c-815c-4f90-8ba1-462f6d1fb85f" width="250px"/>
-      </a><br/>
-      <b>SP Clone</b><br/>
-      A Spotify Clone
-    </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://inm-25.vercel.app" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ca28b157-5e70-4928-90aa-a91801fd2cb2" width="250px"/>
+      </a><br/>
+      <b>INM</b><br/>
+      Music recommendation app
+    </td>
     <td align="center">
       <a href="https://flourishing-sorbet-29baac.netlify.app" target="_blank">
          <img src="https://github.com/user-attachments/assets/58e9d0c0-9de8-4fbd-a1be-69ae8facfe6c" width="250px"/>
@@ -100,11 +100,11 @@
       Mock Barber Shop Page
     </td>
     <td align="center">
-      <a href="https://github.com/AdrianGH03/AI_Notes_Summarizer" target="_blank">
-         <img src="https://github.com/user-attachments/assets/9b961734-1c9e-40ef-8165-6343afb50ea4" width="250px"/>
+      <a href="https://github.com/AdrianGH03/Sp-Clone" target="_blank">
+        <img src="https://github.com/user-attachments/assets/4e032b4c-815c-4f90-8ba1-462f6d1fb85f" width="250px"/>
       </a><br/>
-      <b>AI-Notes Summarizer</b><br/>
-       Resume tailoring tool
+      <b>SP Clone</b><br/>
+      A Spotify Clone
     </td>
   </tr>
 </table>
