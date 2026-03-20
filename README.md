@@ -36,6 +36,7 @@
 #### Featured Projects
 
 <h3 align="left">📸 Project Gallery</h3>
+<img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/9ff72ad1-76a7-417c-b160-610cee4f8009" />
 
 <table>
   <tr>
@@ -45,6 +46,13 @@
       </a><br/>
       <b>BlitzDraft</b><br/>
       League of Legends drafting tool
+    </td>
+    <td align="center">
+      <a href="https://github.com/AdrianGH03/AIInterviewProject" target="_blank">
+         <img src="https://github.com/user-attachments/assets/9ff72ad1-76a7-417c-b160-610cee4f8009" width="250px"/>
+      </a><br/>
+      <b>PrepPilot</b><br/>
+      AI Interview Practice
     </td>
     <td align="center">
       <a href="https://fandom-fits.vercel.app" target="_blank">
