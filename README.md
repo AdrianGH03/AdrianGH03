@@ -1,6 +1,6 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/miguelgomez400" target="_blank" rel="noopener noreferrer">Miguel Gomez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/AdrianGH03"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+</h2>
 
 - 🎓 Computer Science Graduate from Florida International University (Class of 2025) and based in Palm Beach County, Florida.
 - 💻 Full-stack developer with the skillset to build scalable, real-world web applications.
